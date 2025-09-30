@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  7 FEB 2025 17:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  30 SEP 2025 11:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -702,30 +702,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip100
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 51.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 51.
+Package hyperref Info: Option `breaklinks' set `true' on input line 53.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 53.
 
 (./CV_jsm.aux)
 \openout1 = `CV_jsm.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -749,18 +749,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 51.
-Package microtype Info: Applying patch `item' on input line 51.
-Package microtype Info: Applying patch `toc' on input line 51.
-Package microtype Info: Applying patch `eqnum' on input line 51.
-Package microtype Info: Applying patch `footnote' on input line 51.
+LaTeX Info: Redefining \microtypecontext on input line 53.
+Package microtype Info: Applying patch `item' on input line 53.
+Package microtype Info: Applying patch `toc' on input line 53.
+Package microtype Info: Applying patch `eqnum' on input line 53.
+Package microtype Info: Applying patch `footnote' on input line 53.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 51.
+LaTeX Info: Redefining \showhyphens on input line 53.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -803,7 +803,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 51.
+Package hyperref Info: Link coloring OFF on input line 53.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -815,9 +815,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count317
 )
-LaTeX Info: Redefining \ref on input line 51.
-LaTeX Info: Redefining \pageref on input line 51.
-LaTeX Info: Redefining \nameref on input line 51.
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
 
 (./CV_jsm.out) (./CV_jsm.out)
 \@outlinefile=\write4
@@ -825,22 +825,22 @@ LaTeX Info: Redefining \nameref on input line 51.
 
 \pagenumberwidth=\skip101
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 51.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 53.
 \makecvheadpicturebox=\box72
-<jsm_picture.jpg, id=120, 2243.38126pt x 2242.3775pt>
+<jsm_picture.jpg, id=132, 3591.4175pt x 3611.4925pt>
 File: jsm_picture.jpg Graphic file (type jpg)
 <use jsm_picture.jpg>
-Package pdftex.def Info: jsm_picture.jpg  used on input line 53.
-(pdftex.def)             Requested size: 64.0pt x 63.94948pt.
+Package pdftex.def Info: jsm_picture.jpg  used on input line 55.
+(pdftex.def)             Requested size: 64.0pt x 64.30971pt.
 \makecvheadpicturewidth=\skip102
 \makecvheadnamebox=\box73
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <28> not available
-(Font)              size <24.88> substituted on input line 53.
+(Font)              size <24.88> substituted on input line 55.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 
  []
 
@@ -849,88 +849,87 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 56.
+(Font)              <10.95> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 56.
+(Font)              <8> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 56.
+(Font)              <6> on input line 58.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 97.
+nput line 99.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 97.
+ input line 99.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 97.
+n input line 99.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./jsm_picture.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 105--105
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
 
  []
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
 
 [2]
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 180.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 171.
 
-
-Overfull \hbox (7.34668pt too wide) in paragraph at lines 193--193
- []|[]\OT1/cmss/m/n/10.95 (-20) 2016,2022,2024[]|
- []
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
 
 [3]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 218.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 218.
+Overfull \hbox (7.34668pt too wide) in paragraph at lines 204--204
+ []|[]\OT1/cmss/m/n/10.95 (-20) 2016,2022,2024[]|
+ []
 
-Underfull \hbox (badness 1082) in paragraph at lines 224--224
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 229.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 229.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
+
+[4]
+Underfull \hbox (badness 1082) in paragraph at lines 237--237
 []\OT1/cmss/m/n/10 (+20) Denis Lar-rivee, Jen-nifer French, Al-berto An-toni-et
 ti, Zach McK-in-ney, Noe-line W Prins,
  []
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[4]
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
 
 [5]
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
 
 [6]
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+(fancyhdr)                Make it at least 54.40001pt, for example:
+(fancyhdr)                \setlength{\footskip}{54.40001pt}.
 
 [7] (./CV_jsm.aux)
 
@@ -938,16 +937,16 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 3.12pt have occurred.
 
 Package rerunfilecheck Info: File `CV_jsm.out' has not changed.
-(rerunfilecheck)             Checksum: C3B96A55053F54DBDF51BF45F1F697FA;4017.
+(rerunfilecheck)             Checksum: 262B5F6359ADD0F64983687E013B78DB;4412.
  ) 
 Here is how much of TeX's memory you used:
- 25855 strings out of 478287
- 497994 string characters out of 5849289
- 805462 words of memory out of 5000000
- 43443 multiletter control sequences out of 15000+600000
- 483811 words of font info for 135 fonts, out of 8000000 for 9000
+ 25879 strings out of 478287
+ 498376 string characters out of 5849289
+ 824180 words of memory out of 5000000
+ 43456 multiletter control sequences out of 15000+600000
+ 484055 words of font info for 139 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,14n,122p,1003b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 129i,15n,122p,1003b,941s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/
 usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/t
 exmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}</usr/share/texlive/texmf-d
@@ -961,10 +960,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmssi17.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfsl1095.pfb>
-Output written on CV_jsm.pdf (7 pages, 2729233 bytes).
+Output written on CV_jsm.pdf (7 pages, 1634736 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 36 named destinations out of 1000 (max. 500000)
- 43250 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 279 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 43274 words of extra memory for PDF output out of 51595 (max. 10000000)
 
